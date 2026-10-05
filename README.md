@@ -4,10 +4,6 @@
 B.Tech CSE Student | Full Stack Developer | Python Developer | Data Analytics Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaiksameera-825&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
