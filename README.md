@@ -124,16 +124,17 @@ B.Tech CSE Student | Full Stack Developer | Python Developer | Data Analytics En
 - 🏅 Certified System Administrator (CSA) — ServiceNow
 - 🏅 Certified Application Developer (CAD) — ServiceNow
 - 🐍 Python Course Completion — Infosys Springboard
-- 💻 Programming — PrepInsta
 - 💻 C Programming — PrepInsta
 
 ---
 
 ## 🏅 Achievements
 
-- 💡 Participated in coding challenges
 - 🏆 Competed in college coding contests
 - 🚀 Participated in college-level Ideathon
+- 🥉Secured 3rd place in college level hackathon. 
+- 🏅Selected for the LTM Hackathon in Top 50 
+- 🎓Earned ServiceNow CSA and CAD certifications
 
 ---
 
