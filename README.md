@@ -150,22 +150,6 @@ B.Tech CSE Student | Full Stack Developer | Python Developer | Data Analytics En
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaiksameera-825&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shaiksameera-825&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Most Used Languages
 
 <p align="center">
